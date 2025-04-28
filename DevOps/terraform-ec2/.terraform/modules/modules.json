@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2_module","Source":"../../Modules/ec2/v0","Dir":""},{"Key":"terraform-ec2","Source":"../../Module/ec2/v0","Dir":"../../Module/ec2/v0"}]}
